@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de154b11-555d-4bc2-bcba-5c50b8ae8535" name="YogoBoom" url="http://YogoBoom">
+        <fileTransfer port="0" mountedRoot="D:\OpenServer\domains\YogoBoom" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
