@@ -17,13 +17,15 @@ body{
 
 }
 .YogoBoom{
+
     position: relative;
-    left: 0;
+    left: 5px;
 transform: rotateY(-3deg);
     color: white;
     font-family: Times New Roman;
     font-size: 30px;
     text-shadow: 0 0 0 #EEE, 3px 3px 0 #707070;
+
 }
 .a_header{
     text-decoration: none;
@@ -46,7 +48,7 @@ transform: rotateY(-3deg);
 
 }
 a:hover{
-    color: darkgray;
+    color: aquamarine;
 }
 #support{
     position: absolute;
@@ -80,6 +82,10 @@ a{
 margin-left: 970px;
 
 }
+#Images_main{
+    height: 370px;
+    width: 450px;
+}
 #control_accaunt{
     text-decoration: underline;
     color: black;
@@ -93,4 +99,11 @@ padding: 3px;
 #h_sotsetti{
     text-decoration: underline;
     margin-left: 20px;
+}
+.frozen_yogurt{
+    font-size: 16px;
+}
+#content{
+    position: relative;
+margin-left: 400px;
 }
